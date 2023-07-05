@@ -1,9 +1,11 @@
 # LetterWiz (Modern Letter Generator, also known as Genletter)
 ## Tech stack used: 
-#### - Backend: NodeJS, ExpresJS
-#### - Frontend: ReactJS
-#### - Database: MongoDB
-#### - Login: Google OAuth
+#### ~ Backend: NodeJS, ExpresJS
+#### ~ Frontend: ReactJS
+#### ~ Database: MongoDB
+#### ~ Login: Google OAuth
+
+## Description of Project:
 
 #### - Entry page
 
