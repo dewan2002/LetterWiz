@@ -17,3 +17,13 @@
 
 ![image](https://github.com/dewan2002/LetterWiz/assets/80190765/58f08fda-447d-4bfa-8ddc-48940b37d969)
 
+## - Select any of the two options, say Resume
+###### Fill up some the details to generate resume, like name, education, project details, experience, achievments, etc.
+
+![image](https://github.com/dewan2002/LetterWiz/assets/80190765/6143a1b8-84fd-40ec-8a04-b9092586d417)
+![image](https://github.com/dewan2002/LetterWiz/assets/80190765/44b8ef32-79b4-4add-bb95-a5de96410cc6)
+![image](https://github.com/dewan2002/LetterWiz/assets/80190765/58c96784-3e69-4196-9af7-2f0b6d1f9fb2)
+
+## - Provides download feature after generating the resume/offer letter
+
+![image](https://github.com/dewan2002/LetterWiz/assets/80190765/1d7e1143-0e71-41fa-a6a2-9928d5573684)
